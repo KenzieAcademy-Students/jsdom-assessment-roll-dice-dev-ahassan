@@ -2,4 +2,11 @@
 
 button {
   cursor: pointer;
+  
+}
+
+#graph {
+  display: flex;
+  background-color: #ddd;
+  
 }
